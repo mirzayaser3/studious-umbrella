@@ -10,6 +10,5 @@ This section is for all **DevOps-related projects** — from CI/CD pipelines to 
 - Terraform / Pulumi infrastructure code
 - Monitoring setups with Prometheus, Grafana, etc.
 
-## 📂 Folder Structure
 
 
