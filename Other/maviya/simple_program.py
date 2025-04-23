@@ -9,3 +9,4 @@ try:
     simple_pyramid(height)
 except ValueError:
     print("Please enter a valid integer.")
+
