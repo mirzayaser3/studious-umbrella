@@ -9,4 +9,3 @@ def generate_fibonacci(n):
 # Test the function
 num = int(input("Enter the number of terms: "))
 print(f"Fibonacci sequence up to {num} terms:")
-print(generate_fibonacci(num))
